@@ -1,7 +1,7 @@
 Data Science Specialisation 
 ===================
 ### John Hopking University
-####Course 3: R programming
+####Course 2: R programming
 
 
 ### Project:
